@@ -6,12 +6,4 @@ layout: default
 
   {{ content }}
 
-  <h2>Papers Index</h2>
-
-  <ul>
-  {% for paper in site.pages %}
-    <li><code>{{ paper.num }}</code> — <a class="page-link" href="{{ paper.url | relative_url }}">{{ paper.title | escape }}</a></li>
-  {% endfor %}
-  </ul>
-
 </div>
