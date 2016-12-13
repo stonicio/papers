@@ -1,7 +1,3 @@
----
-layout: paper
-num: 1
-status: wip
----
+> status: wip
 
 # Stonic Inventory
