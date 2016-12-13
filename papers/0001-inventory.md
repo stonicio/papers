@@ -1,3 +1,3 @@
 > status: wip
 
-# Stonic Inventory
+# Paper 1 — Stonic Inventory
