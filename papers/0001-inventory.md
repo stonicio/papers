@@ -1,4 +1,5 @@
 ---
+layout: paper
 num: 1
 status: wip
 ---
