@@ -8,4 +8,6 @@ gems:
 - jekyll-optional-front-matter
 - jekyll-readme-index
 - jekyll-titles-from-headings
+disqus:
+  shortname: stonic-papers
 ...
